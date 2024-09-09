@@ -1,0 +1,133 @@
+    1  cd desktop\calisma\klasör1
+    2  cd desktop/calisma/klasör1
+    3  touch liste.txt
+    4  rm liste.txt
+    5  touch liste.txt
+    6  vim liste.txt
+    7  cd desktop/yeni klasör
+    8  cd/desktop/Ödev
+    9  cd desktop/Ödev
+   10  git status
+   11  git init
+   12  git config -- global user.name "UmmuGulsum132"
+   13  git config --global user.name "UmmuGulsum132"
+   14  git config --global user.email "ummugulsummutluer132@gmail.com"
+   15  git clone https://github.com/UmmuGulsum132/Test.git
+   16  cd Test
+   17  git status
+   18  git status
+   19  git branch^C
+   20  git branch
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit -m "İlk klasörümüzü olusturduk"
+   25  git push
+   26  git status
+   27  git commit -m "İlk kodumuzu yazdık. su an hazır"
+   28  git add
+   29  git commit -m  " ikinci commit"
+   30  git push
+   31  git pull
+   32  git add .
+   33  git commit -m "İlk kodumuzu yazdık. su an hazır"
+   34  git add .
+   35  git commit -m " ikinci commit"
+   36  git log
+   37  git pull
+   38  git add .
+   39  git commit -m "v1"
+   40  git satatus
+   41  git add .
+   42  git commit -m "v1"
+   43  git branch
+   44  git branch ummugulsum
+   45  git branch
+   46  git checkout ummugulsum
+   47  git branch
+   48  git merge main 
+   49  git clone https://github.com/UmmuGulsum132/HW_10.git
+   50  cd HW_10
+   51  touch text_ignore.txt
+   52  echo "text_ignore.txt" >> .gitignore
+   53  git add .
+   54  cd HW_10
+   55  git clone https://github.com/UmmuGulsum132/HW_10.git
+   56  cd HW_10
+   57  touch text_ignore.txt
+   58  echo "text_ignore.txt" >> .gitignore
+   59  git status
+   60  git add .gitignore
+   61  git add text_ignore.txt
+   62  git status
+   63  git commit -m "Added .gitignore and text_ignore.txt"
+   64  touch main_test.txt
+   65  git add .
+   66  git commit -m "main_text.txt"
+   67  git checkout -b develop
+   68  touch develop_test.txt
+   69  git add .
+   70  git commit -m "develop_test.txt"
+   71  git status
+   72  echo "Geliştirme aşaması" >> develop_test.txt
+   73  git status
+   74  git add .
+   75  git commit -m "develop_test.txt dosyası güncellendi"
+   76  git checkout main
+   77  git merge develop
+   78  git log
+   79  history > command_list.csv
+   80  git add .
+   81  cd /desktop/HW_10
+   82  mkdir HW_10
+   83  cd desktop/HW_10
+   84  git status
+   85  git init
+   86  git clone https://github.com/UmmuGulsum132/HW_10.git
+   87  git status
+   88  cd HW_10
+   89  touch text_ignore.txt
+   90  echo "text_ignore.txt" >> .gitignore
+   91  GİT STATUS
+   92  git status
+   93  git add .
+   94  git commit -m "Added .gitignore and text_ignore.txt"
+   95  cd desktop/HW_10
+   96  git clone https://github.com/UmmuGulsum132/HW_10.git
+   97  git status
+   98  git branch
+   99  touch text_ignore.txt
+  100  echo "text_ignore.txt" >> .gitignore
+  101  git status
+  102  git add .
+  103   git rm --cached HW_10
+  104  cd desktop/HW_10
+  105  GİT STATUS
+  106  GİT İNİT
+  107  git status
+  108  git init
+  109  cd desktop/HW_10
+  110  git clone 
+  111  git clone https://github.com/UmmuGulsum132/HW_10.git
+  112  cd HW_10
+  113  touch text_ignore.txt
+  114  echo "text_ignore.txt" >> .gitignore
+  115  git status
+  116  git add .
+  117  git commit -m "Added .gitignore and text_ignore.txt"
+  118  touch main_test.txt
+  119  git add .
+  120  git commid -m "main_test.txt"
+  121  git commit -m "main_test.txt"
+  122  git checkout -b develop
+  123  touch develop_test.txt
+  124  git add .
+  125  git commit -m "develop_test.txt"
+  126  echo "Geliştirme aşaması" >> develop_test.txt
+  127  git status
+  128  git add .
+  129  git commit -m "develop_test.txt dosyası güncellendi"
+  130  git checkout main
+  131  git merge develop
+  132  git log
+  133  history > command_list.csv
